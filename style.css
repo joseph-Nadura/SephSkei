@@ -1,0 +1,201 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Roboto;
+}
+a{
+    text-decoration:none;
+    color:whitesmoke;
+    font-family:Roboto;
+
+}
+
+label{
+	
+     font-family:Roboto;
+     font-weigth:500;
+     font-size:15px;
+}
+
+.logo{
+    text-decoration:none;
+    color:whitesmoke;
+    font-family:Agbalumo;
+    font-size:30px;
+    margin-left:15px;
+}
+
+ul{
+    text-decoration:none;
+    display:inline-block;
+    margin-left:67%;
+}
+li{
+    display:inline-block;
+    margin:18px;
+}
+ul li a:hover{
+    color:orange;
+}
+body{  
+    height: 100vh;
+    width: 100vw;
+    background-image:url("./image/S1.jpg");
+    background-position:center;
+    background-size: cover;
+    background-repeat:no-repeat;
+    justify-content: center;
+    font-weigth:700;
+ 
+} 
+label{
+    color:orange;
+}
+.h-content h1{
+    text-align:center;
+    color: whitesmoke;
+    margin-top:25px;
+    margin-bottom:40px;
+    font-size: 9vmin;
+}
+.h-content h2{
+    margin-top:130px;
+    font-size: 6vmin;
+}
+.h-content{
+    margin-bottom:393px;
+    color: whitesmoke;
+    text-align: center;
+}
+.LM{
+    padding:9px 15px ;
+    background:orange;
+    border-radius: 30px;
+    color: whitesmoke;
+    text-decoration:none;
+   
+}
+.LM:hover{
+     background:#A9A9A9;
+     color:white;
+     margin-bottom:50px;
+}
+span{
+      color:#FF6C22;
+}
+.logo{
+     color:orange;
+      margin-left:60px;
+}
+.container {
+  width: 375px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color:transparent;
+  border-radius: 5px;
+  margin-top:90px;
+}
+
+.login {
+  font-family:Roboto;
+  font-weigth:900;
+  font-size:45px;
+  color:whitesmoke;
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction:column;
+}
+.container h1{
+   margin-bottom:7px;
+}
+
+input[type="text"],input[type="email"],
+input[type="password"] {
+  margin-bottom:10px;
+  padding:10px;
+  border:1px solid #ccc;
+  border-radius: 5px;
+}
+input[type="checkbox"]{
+    font-family:Roboto;
+    font-weigth:500;
+    font-size:14px;
+    margin-bottom:3px;  
+    cursor:pointer;   
+}
+p{
+   margin-top:10px;
+   font-family:Roboto;
+   color:whitesmoke;
+   font-size:14px;
+}
+
+button {
+  
+  font-size:18px;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius:5px;
+  cursor: pointer;
+}
+.p{
+   font-family:Roboto;
+    font-weigth:500;
+    font-size:16px;
+}
+.Hsign{
+ 	 
+	font-size:20px;
+        weigth:700;
+}
+.Hsign:hover{
+	color:orange;
+}
+.check{
+       margin-bottom:5px;
+       display:inline-block;
+       color:whitesmoke;
+       font-family:Roboto;
+       font-weigth:500;
+       font-size:16px;
+}
+ .Fpass:hover{  
+      color:orange;
+}
+.h1:hover{
+     color:orange;
+}
+span{    
+     color:whitesmoke;
+}
+.logo:hover{
+    color:whitesmoke;
+}
+button:hover {
+  background-color: #45a049;
+}
+.footer{
+    text-align:center;
+    padding:3px;
+    background-color:orange;
+    color:whitesmoke;
+    margin-top:200px;
+    width:100vw;
+    
+}
+
+
+
+
