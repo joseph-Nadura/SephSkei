@@ -20,7 +20,7 @@ a{
 label{
 	
      font-family:Roboto;
-     font-weigth:500;
+     font-weight:500;
      font-size:15px;
 }
 
@@ -105,7 +105,7 @@ span{
 
 .login {
   font-family:Roboto;
-  font-weigth:900;
+  font-weight:900;
   font-size:45px;
   color:whitesmoke;
   text-align: center;
@@ -128,7 +128,7 @@ input[type="password"] {
 }
 input[type="checkbox"]{
     font-family:Roboto;
-    font-weigth:500;
+    font-weight:500;
     font-size:14px;
     margin-bottom:3px;  
     cursor:pointer;   
@@ -152,13 +152,13 @@ button {
 }
 .p{
    font-family:Roboto;
-    font-weigth:500;
+    font-weight:500;
     font-size:16px;
 }
 .Hsign{
  	 
 	font-size:20px;
-        weigth:700;
+        font-weight:700;
 }
 .Hsign:hover{
 	color:orange;
@@ -168,7 +168,7 @@ button {
        display:inline-block;
        color:whitesmoke;
        font-family:Roboto;
-       font-weigth:500;
+       font-weight:500;
        font-size:16px;
 }
  .Fpass:hover{  
